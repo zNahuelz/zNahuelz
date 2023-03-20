@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[
+  {
+      "name" : "That's a secret!",
+      "nickname" : "zNahuelz",
+      "gender" : "Male",
+      "age" : 19,
+      "career" : "Software Development",
+      "currently_studying" : True,
+      "programming_languages" : ["Python", "Java", "C#", "SQL","JavaScript","CSS"],
+      "hobbies" : ["Anime","Videogames","History","Politics","Reading"],
+      "languages" : ["Spanish","English"],
+      "learning_about" : ["Spring Boot", "Bootstrap","ASP.NET"]
+  }
+]
