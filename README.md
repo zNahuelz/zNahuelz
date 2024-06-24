@@ -1,13 +1,14 @@
 ```json
 [
   {
-    "age": 20,
-    "currently_learning": ["PHP", "API Dev.", "Laravel"],
+    "age": 21,
+    "currently_learning": ["Vue", "API Dev.", "Laravel"],
     "communication" : ["Spanish", "English"],
-    "languages" : ["Python", "Java", "C#"],
-    "frameworks" : ["PyQT5", "Spring Boot", "Entity Framework"],
+    "languages" : ["Python", "Java", "C#","PHP"],
+    "frameworks" : ["Spring Boot", "Laravel","Angular"],
     "OS" : ["Windows", "Linux"],
     "hobbies" : ["Anime", "Politics", "Reading", "Videogames"]
+    "favorite_books" : ["Mistborn","Stormlight Archive","Animal Farm"]
   }
 ]
 ```
